@@ -5,8 +5,8 @@ This repository represents **TDD Part-Part 2** video from the
 [Clean Code course by Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780134661742/).
 It was created for a step by step presentation of Bowling Game TDD example. 
 
-Rules
------
+Game Rules
+----------
 
 * A game of bowling consists of 10 rounds. 
 * Each round provides a player with tries to knock 10 pins with a ball.

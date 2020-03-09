@@ -7,6 +7,8 @@ public class Game {
         score += pins;
     }
 
+    // Score should be calculated here, not in roll().
+    // Current approach violates deign principles.
     public int score() {
         return score;
     }
